@@ -12,6 +12,7 @@ xcuserdata/
 *.xcscmblueprint
 *.gcno
 *.gcda
+/*.xcodeproj
 
 # Mac OS X
 .DS_Store
